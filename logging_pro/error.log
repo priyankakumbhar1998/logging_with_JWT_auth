@@ -1,0 +1,4 @@
+ERROR 2023-12-22 12:10:57,275 views error_logger Failed to delete student
+ERROR 2023-12-22 12:34:16,641 views error_logger There is an error fetching the student
+ERROR 2023-12-22 12:35:55,479 views error_logger There is an error fetching the student
+ERROR 2023-12-22 12:39:51,849 views error_logger There is an error fetching the student

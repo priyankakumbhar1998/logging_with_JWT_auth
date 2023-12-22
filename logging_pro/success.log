@@ -1,0 +1,45 @@
+INFO 2023-12-22 09:52:03,978 views success_logger Student created successfully
+INFO 2023-12-22 09:52:12,042 views success_logger Student fetched successfully
+INFO 2023-12-22 10:01:50,886 views success_logger Student created successfully
+INFO 2023-12-22 10:01:55,488 views success_logger Student fetched successfully
+INFO 2023-12-22 10:27:31,193 views success_logger The User with username: user1 created successfully
+INFO 2023-12-22 10:28:22,740 views success_logger The User with username: user3 created successfully
+INFO 2023-12-22 10:28:45,677 views success_logger The User with username: user4 created successfully
+INFO 2023-12-22 10:31:13,873 views success_logger Student detail retrieved successfully
+INFO 2023-12-22 10:42:07,715 views success_logger Student detail retrieved successfully
+INFO 2023-12-22 10:43:37,743 views success_logger student details retrieved: {'id': 1, 'first_name': 'Mayuri', 'last_name': 'patil', 'roll_no': 1, 'dob': '1998-09-23', 'marks': 89, 'address': 'pune'}
+INFO 2023-12-22 11:03:13,291 views success_logger Student updated successfully: Student object (1)
+INFO 2023-12-22 11:03:22,946 views success_logger Student updated successfully: Student object (1)
+INFO 2023-12-22 11:04:30,022 views success_logger Student updated successfully: Student object (2)
+INFO 2023-12-22 11:04:39,260 views success_logger student details retrieved: {'id': 2, 'first_name': 'nikhil', 'last_name': 'deshmukh', 'roll_no': 2, 'dob': '2003-08-18', 'marks': 99, 'address': 'banglore'}
+INFO 2023-12-22 11:04:52,089 views success_logger Student fetched successfully
+INFO 2023-12-22 11:05:56,706 views success_logger Student created successfully
+INFO 2023-12-22 11:06:02,787 views success_logger Student fetched successfully
+INFO 2023-12-22 11:10:42,050 views success_logger Student deleted successfully {pk}
+INFO 2023-12-22 11:10:55,124 views success_logger Student fetched successfully
+INFO 2023-12-22 11:19:08,293 views success_logger Student fetched successfully
+INFO 2023-12-22 11:19:33,288 views success_logger Student data partially updated successfully
+INFO 2023-12-22 11:19:40,981 views success_logger Student fetched successfully
+INFO 2023-12-22 11:33:40,744 views success_logger Student fetched successfully
+INFO 2023-12-22 11:34:33,178 views success_logger Student created successfully
+INFO 2023-12-22 11:34:41,460 views success_logger Student fetched successfully
+INFO 2023-12-22 11:35:27,943 views success_logger Student updated successfully: Student object (1)
+INFO 2023-12-22 11:35:49,496 views success_logger Student fetched successfully
+INFO 2023-12-22 11:36:02,519 views success_logger Student deleted successfully
+INFO 2023-12-22 11:36:14,538 views success_logger Student fetched successfully
+INFO 2023-12-22 11:36:39,813 views success_logger Student deleted successfully
+INFO 2023-12-22 11:36:46,191 views success_logger Student fetched successfully
+INFO 2023-12-22 11:37:31,273 views success_logger Student created successfully
+INFO 2023-12-22 11:38:37,627 views success_logger Student created successfully
+INFO 2023-12-22 11:38:42,614 views success_logger Student fetched successfully
+INFO 2023-12-22 11:39:55,748 views success_logger student details retrieved: {'id': 6, 'first_name': 'vaishnavi', 'last_name': 'mohite', 'roll_no': 3, 'dob': '2001-06-14', 'marks': 89, 'address': 'mumbai'}
+INFO 2023-12-22 11:40:47,802 views success_logger Student data partially updated successfully
+INFO 2023-12-22 11:40:55,296 views success_logger Student fetched successfully
+INFO 2023-12-22 11:42:09,721 views success_logger Student fetched successfully
+INFO 2023-12-22 12:00:13,631 views success_logger Student created successfully
+INFO 2023-12-22 12:00:20,933 views success_logger Student fetched successfully
+INFO 2023-12-22 12:28:39,618 views success_logger Student fetched successfully
+INFO 2023-12-22 12:31:27,062 views success_logger Student created successfully
+INFO 2023-12-22 12:31:32,452 views success_logger Student fetched successfully
+INFO 2023-12-22 12:32:58,990 views success_logger Student updated successfully: Student object (5)
+INFO 2023-12-22 12:40:22,143 views success_logger Student created successfully
